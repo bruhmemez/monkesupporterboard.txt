@@ -3,3 +3,5 @@
 -monkey chimp
 -Krizzi
 -ggfreddt
+-BBladey
+-Rex
